@@ -1,0 +1,8 @@
+Username,Role,Email,Password,Phone Number,Grade,ECA
+admin1,admin,admin1@example.com,password1,1234567890,77,cricket
+student1,student,student1@example.com,password2,9876543210,95,Chess Club
+Ronak,admin,skraunak24@tbc.edu.np,1234,9887654356,88,cricket
+Nischal,student,rnischal24@tbc.edu.np,1234,9801692560,80,Chess Club
+f1d14abb,xyz,admin,xyz@gmail.com,123456789,123456789,,
+5aee52b0,Shirish,admin,mshirish24@tbc.edu.np,1234,9841297422,,
+84e15543,Sirom,student,xxx,123456,11,"80,70,60,70","Music,Sports,Dance"

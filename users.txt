@@ -1,0 +1,5 @@
+Ronak,admin,skraunak24@tbc.edu.np,1234,751f52a9,chess
+
+xyz,admin,xyz@gmail.com,123456789,123456789
+Shirish,admin,mshirish24@tbc.edu.np,1234,9841297422
+Sirom,student,xxx,123456,11
